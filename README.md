@@ -1,16 +1,21 @@
 # Liangcheng Cao
 
-Machine Learning & LLM Systems | Mathematics @ University of Rochester
+**Machine Learning & LLM Systems | Mathematics @ University of Rochester**
 
-Focused on LLM inference, serving systems, and applied machine learning.
+I build and evaluate machine learning and LLM inference systems, with a focus on serving performance, reproducible experiments, and system tradeoffs.
 
-## Selected Work
+## Featured Projects
 
-- **LLM Inference Gateway** — Async gateway around SGLang with scheduling, bounded admission, streaming, observability, and reproducible benchmarks.
-- **SGLang Inference Benchmark** — Measured latency, throughput, concurrency scaling, context/decode length, and prefix caching behavior.
-- **GAD7 Mental Health ML** — Leakage-aware classification with group-aware validation and feature evaluation.
-- **Retail Supply Chain Control Tower** — Forecasting with chronological backtesting, strong baselines, and holdout evaluation.
+### LLM Inference Gateway
+Async gateway for SGLang with bounded admission, FIFO/SPF scheduling, streaming, observability, and reproducible benchmarks.
 
-## Focus
+[View Repository](https://github.com/Kyyy9492/llm-inference-gateway)
 
-Python · PyTorch · LLM Inference · SGLang · ML Systems · Model Evaluation
+### SGLang Inference Benchmark
+Controlled experiments measuring latency, throughput, concurrency scaling, context/decode length, and prefix caching behavior.
+
+[View Repository](https://github.com/Kyyy9492/sglang-inference-benchmark)
+
+## Currently Focused On
+
+LLM inference · serving systems · ML systems · performance benchmarking

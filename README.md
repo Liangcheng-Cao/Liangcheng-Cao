@@ -9,12 +9,12 @@ I build and evaluate machine learning and LLM inference systems, with a focus on
 ### LLM Inference Gateway
 Async gateway for SGLang with bounded admission, FIFO/SPF scheduling, streaming, observability, and reproducible benchmarks.
 
-[View Repository](https://github.com/Kyyy9492/llm-inference-gateway)
+[View Repository](https://github.com/Liangcheng-Cao/llm-inference-gateway)
 
 ### SGLang Inference Benchmark
 Controlled experiments measuring latency, throughput, concurrency scaling, context/decode length, and prefix caching behavior.
 
-[View Repository](https://github.com/Kyyy9492/sglang-inference-benchmark)
+[View Repository](https://github.com/Liangcheng-Cao/sglang-inference-benchmark)
 
 ## Currently Focused On
 

@@ -31,12 +31,3 @@ Designed to study how serving policies affect latency, throughput, and reliabili
 ## Areas of Interest
 
 LLM inference · ML systems · retrieval & ranking · GPU performance · serving systems · applied machine learning
-
-## Background
-
-B.S. Mathematics, University of Rochester  
-Coursework includes statistical inference, stochastic processes, optimization, econometrics, and machine learning.
-
-## Tech
-
-Python · PyTorch · SQL · FastAPI · SGLang · Hugging Face · scikit-learn · Power BI · Git
